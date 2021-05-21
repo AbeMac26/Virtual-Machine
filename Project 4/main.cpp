@@ -1,4 +1,3 @@
-// Abel Macias
 //  main.cpp
 //  Project4
 //
