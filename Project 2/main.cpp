@@ -1,4 +1,3 @@
-//  CS 4380
 //  main.cpp
 //  Project 2
 //
