@@ -1,4 +1,3 @@
-//  CS 4380
 //  Project 1
 //
 //  Created by Abel Macias on 2/4/21.
