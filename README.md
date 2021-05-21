@@ -7,8 +7,12 @@ I. Project 1
   
   Write the following assembly program using your assembly language.
   Place the following list of integers in memory 
+  
   A = (1,2,3,4,5,6)
+  
   B = (300, 150, 50, 20, 10, 5)
+  
   C = (500, 2, 5, 10)
+  
   Place your full name “Last Name, First Name” in contiguous memory.
   
